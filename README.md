@@ -18,3 +18,12 @@ This integration includes the additional On/Off register of the JAF22014 v2.0 de
 My devices mounted near my Huawei inverter.
 
 ![Screenshot 2025-06-20 221225](https://github.com/user-attachments/assets/64608c92-88c7-4cc6-80b2-0bfbe5fb9a39)
+
+
+This is a little demo with this integration.
+Note: the controls are HA entities, Gauge Card Pro, and custom animated fan button-card.
+
+
+![JAFVR](https://github.com/user-attachments/assets/7d64fe46-657f-4405-8052-02247e11333e)
+
+Languages: Romania + English 😁
