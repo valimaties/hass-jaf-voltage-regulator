@@ -24,6 +24,27 @@ This is a little demo with this integration.
 Note: the controls are HA entities, Gauge Card Pro, and custom animated fan button-card.
 
 
-![JAFVR](https://github.com/user-attachments/assets/7d64fe46-657f-4405-8052-02247e11333e)
+![JAF_Test](https://github.com/user-attachments/assets/f6a6fd4e-9889-4fc0-8f23-666b673074ab)
 
-Languages: Romania + English 😁
+Languages: Romanian + English 😁
+
+Installation steps:
+
+Add integration:
+
+![Screenshot 2025-06-21 182910](https://github.com/user-attachments/assets/bad9c905-1f32-4c14-a8a4-38fcc87e6830)
+
+Select connection type:
+
+![Screenshot 2025-06-21 182949](https://github.com/user-attachments/assets/d4cb973c-d5e4-4380-bdd4-c618715ea558)
+
+
+Insert connection data:
+
+![Screenshot 2025-06-21 183029](https://github.com/user-attachments/assets/d80c6c9c-9837-4f8f-a9a5-7e6ba607c863)
+
+Configure values for parameters:
+
+![Screenshot 2025-06-21 183109](https://github.com/user-attachments/assets/e1ec5218-e9ef-41be-8f1b-39e088ddf26c)
+
+![Screenshot 2025-06-21 183129](https://github.com/user-attachments/assets/39c91cd8-2a21-40b3-92da-9feec29d1248)
