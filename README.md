@@ -23,7 +23,14 @@ My devices mounted near my Huawei inverter.
 This is a little demo with this integration.
 Note: the controls are HA entities, Gauge Card Pro, and custom animated fan button-card.
 
+**Update - Custom control added**
 
+Based on screen size, or parent size, the control will autoarrange items:
+
+![JAFControlAutosize](https://github.com/user-attachments/assets/84008d6b-c58a-4dd9-915a-31084b81f384)
+
+
+This was the initial dashboard, with HA base controls!
 ![JAF_Test](https://github.com/user-attachments/assets/f6a6fd4e-9889-4fc0-8f23-666b673074ab)
 
 Languages: Romanian + English 😁
@@ -48,3 +55,4 @@ Configure values for parameters:
 ![Screenshot 2025-06-21 183109](https://github.com/user-attachments/assets/e1ec5218-e9ef-41be-8f1b-39e088ddf26c)
 
 ![Screenshot 2025-06-21 183129](https://github.com/user-attachments/assets/39c91cd8-2a21-40b3-92da-9feec29d1248)
+
