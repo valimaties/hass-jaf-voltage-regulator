@@ -23,11 +23,28 @@ My devices mounted near my Huawei inverter.
 This is a little demo with this integration.
 Note: the controls are HA entities, Gauge Card Pro, and custom animated fan button-card.
 
+
+
 **Update - Custom control added**
 
 Based on screen size, or parent size, the control will autoarrange items:
 
 ![JAFControlAutosize](https://github.com/user-attachments/assets/84008d6b-c58a-4dd9-915a-31084b81f384)
+
+or use code:
+```
+type: custom:jaf-voltage-regulator-card
+entity: sensor.jaf22014_voltage_regulator_current_temperature
+output_low_limit: sensor.jaf22014_voltage_regulator_output_low_limit
+temp_low_limit: sensor.jaf22014_voltage_regulator_temperature_low_limit
+temp_high_limit: sensor.jaf22014_voltage_regulator_temperature_high_limit
+output_gear: sensor.jaf22014_voltage_regulator_output_gear
+output_calibration: sensor.jaf22014_voltage_regulator_output_calibration
+temp_control_logic: sensor.jaf22014_voltage_regulator_temperature_control_logic
+work_mode: sensor.jaf22014_voltage_regulator_work_mode
+
+```
+
 
 
 This was the initial dashboard, with HA base controls!
