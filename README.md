@@ -8,7 +8,7 @@ The integration required some additional equipment to access the RS485 registers
 Devices I used for this integration:
 
 * [JAF22014 Voltage Regulator (220VAC)](https://www.aliexpress.com/i/1005005616260701.html)
-* [Wondershare RS485 to Wifi/Ethernet Converter](https://www.aliexpress.com/item/1005004438416702.html)
+* [Waveshare RS485 to Wifi/Ethernet Converter](https://www.aliexpress.com/item/1005004438416702.html)
 * [12V/2A power supply with backup, DIN rail mounting, model DR12024-01B](https://www.a2t.ro/surse-si-alimentatoare/sursa-de-alimentare-12v-2ah-cu-backup-montare-pe-sina-din.html)
 
 The integration accepts both wifi and serial protocol, so you can use other devices for RS485 connection to JAF22014 device.
@@ -17,7 +17,8 @@ This integration includes the additional On/Off register of the JAF22014 v2.0 de
 
 My devices mounted near my Huawei inverter.
 
-![Screenshot 2025-06-20 221225](https://github.com/user-attachments/assets/64608c92-88c7-4cc6-80b2-0bfbe5fb9a39)
+<img width="1581" height="757" alt="image" src="https://github.com/user-attachments/assets/ef8660ee-b6dc-4016-a446-06effe4b6b00" />
+
 
 
 This is a little demo with this integration.
@@ -69,7 +70,9 @@ Insert connection data:
 
 Configure values for parameters:
 
-![Screenshot 2025-06-21 183109](https://github.com/user-attachments/assets/e1ec5218-e9ef-41be-8f1b-39e088ddf26c)
+<img width="498" height="385" alt="image" src="https://github.com/user-attachments/assets/6f584005-7bc8-421d-adc0-46b947c96ab6" />
 
-![Screenshot 2025-06-21 183129](https://github.com/user-attachments/assets/39c91cd8-2a21-40b3-92da-9feec29d1248)
+![Screenshot 2025-06-21 183544](https://github.com/user-attachments/assets/ef43a1e2-fcf7-474c-8b7f-9e3af4336ec9)
 
+
+<img width="658" height="755" alt="image" src="https://github.com/user-attachments/assets/78f6dbb3-238e-43ca-94ad-d6e7ac44f489" />
