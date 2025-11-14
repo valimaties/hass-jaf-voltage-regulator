@@ -7,7 +7,7 @@ The integration required some additional equipment to access the RS485 registers
 
 Devices I used for this integration:
 
-* [JAF22014 Voltage Regulator (220VAC)](https://www.aliexpress.com/i/1005005616260701.html)
+* [JAF22014 Voltage Regulator (220VAC)](https://www.aliexpress.com/item/1005005266477421.html)
 * [Waveshare RS485 to Wifi/Ethernet Converter](https://www.aliexpress.com/item/1005004438416702.html)
 * [12V/2A power supply with backup, DIN rail mounting, model DR12024-01B](https://www.a2t.ro/surse-si-alimentatoare/sursa-de-alimentare-12v-2ah-cu-backup-montare-pe-sina-din.html)
 
